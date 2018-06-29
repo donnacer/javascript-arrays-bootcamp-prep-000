@@ -1,2 +1,6 @@
 var ingredient 1 = "bread"
-var ingredient 2 =""
+var ingredient 2 ="mild cheese"
+var ingredient 3 =""
+var ingredient 4 =""
+var ingredient 5 =""
+var ingredient 6 =""
